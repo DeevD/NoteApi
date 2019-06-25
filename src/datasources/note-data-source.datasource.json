@@ -1,0 +1,11 @@
+{
+  "name": "NoteDataSource",
+  "connector": "mongodb",
+  "url": "mongodb+srv://heinhtet:heinhtet@cluster0-m5i6o.mongodb.net/test?retryWrites=true&w=majority",
+  "host": "cluster0-m5i6o.mongodb.net",
+  "port": "",
+  "user": "heinhtet",
+  "password": "heinhtet",
+  "database": "notedb",
+  "useNewUrlParser": true
+}
